@@ -13,8 +13,8 @@
     "url": "https://github.com/KingNigel/crawler/issues"
   },
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "crawler": "^1.0.3"
   }
 }
